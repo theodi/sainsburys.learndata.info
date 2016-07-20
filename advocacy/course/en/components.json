@@ -1,0 +1,793 @@
+[
+    {
+        "_id":"c-01",
+        "_parentId":"b-01",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"intro-logo",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "",
+            "medium": "",
+            "small": "",
+            "*source":"",
+            "*credit":"",
+            "*license":""
+        }
+    },
+    {
+        "_id":"c-02",
+        "_parentId":"b-01",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Data advocacy",
+        "displayTitle":"Data advocacy",
+        "body":"<p>Open and shared data are effective resources for any business. Whether to develop a clearer picture of operations, reduce inefficiency in supply chains or increase reach, a growing number of organisations now perceive data sharing as a key source of value.</p><p>Sharing or opening data also requires in the culture of the organisation. Most businesses are configured to protect their data resources even where benefits of greater sharing outweigh costs. The key to overcoming this resistance in clear, effective communication of the benefits open and shared data provide.</p><p>This module provides you with the ability to deliver a tailored pitch for open data that highlights value and overcomes objections.</p><h5>In this module we’ll explore the following:</h5><ul class='ticks'><li>What elements make up the perfect pitch for open data?</li><li>How to tailor your pitch to specific audiences?</li><li>Where to find relevant case studies</li><li>How to deliver a pitch for open data</li></ul>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+    "_id":"c-11",
+    "_parentId":"b-10",
+    "_type":"component",
+    "_component":"text",
+    "_classes":"",
+    "_layout":"full",
+        "title":"The five components of the perfect open data pitch",
+        "displayTitle": "The five components of the perfect open data pitch",
+        "body": "<p>Creating an effecitive pitch for open data requires 5 elements. The elements are common to most 'elevator pitches' and combine to create a clear, compelling case for action. The pitch should be delivered in 90 seconds or less.</p><h5>The five components of the perfect pitch are:</h5><ul class='ticks'><li>What it is - a plain definition of the concept</li><li>What is does - a tailored description of the benefit</li><li>Where it's helped - a relevant, quanitifed proof point</li><li>Why it's best - a justification of why it beats other options</li><li>What next - a realistic decision that can be taken on the spot</li></ul></p><p>Below we explore each of these elements in greater detail."
+    },
+    {
+        "_id": "c-20",
+        "_parentId": "b-20",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "What is data?",
+        "displayTitle": "What is data?",
+        "body": "Without data we can’t build information, and without information there is no new knowledge.",
+        "instruction": "<em class='desktop-instruction'>Click the forward arrow to see more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
+        "_items": [
+            {
+                "title": "Data",
+                "body": "<p>Data is the raw material from which information and knowledge can be derived.</p><p>Think of data as those locations, images, descriptions, reviews and prices that form the basis of information that can help you plan a holiday, for example.</p>",
+                "_graphic": {
+                    "src": "course/en/images/odi-2-narrative_large.jpg",
+                    "alt": "Data in knowledge triangle",
+                    "title": "Data in knowledge triangle",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
+                    "*credit":"Anna Frajtova",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Data"
+            },
+            {
+                "title": "Information",
+                "body": "<p>Data becomes information when it is given a context.</p><p>Following on from the previous example, locations, images, descriptions and prices can all help provide information related to a tourist attraction.</p><p>The collection and presentation of data helps to form information.</p>",
+                "_graphic": {
+                    "src": "course/en/images/odi-3-narrative_large.jpg",
+                    "alt": "Information in knowledge triangle",
+                    "title": "Information in knowledge triangle",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
+                    "*credit":"Sachezi",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Information"
+            },
+            {
+                "title": "Knowledge",
+                "body": "<p>Knowledge is what is derived from information, and personalised for your needs.</p><p>Building knowledge is a process of turning information into choices.</p><p>Building on the previous example, knowing that no one in your family likes theme parks will help you to decide which places to avoid on holiday, and which would suit your family better.</p>",
+                "_graphic": {
+                    "src": "course/en/images/odi-4-narrative_large.jpg",
+                    "alt": "Knowledge in knowledge triangle",
+                    "title": "Knowledge in knowledge triangle",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
+                    "*credit":"Oleksiy Mark",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Knowledge"
+            }
+        ],
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-25",
+        "_parentId":"b-25",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "What is open data?",
+            "title": "What is open data?",
+            "large": "course/en/images/odi-1-text-image_large.jpg",
+            "medium": "course/en/images/odi-1-text-image_large.jpg",
+            "small": "course/en/images/odi-1-text-image_large.jpg",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
+            "*credit":"leromin",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+        "_id":"c-26",
+        "_parentId":"b-25",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"What is open data?",
+        "displayTitle":"What is open data?",
+        "body":"<p>Open data is data that <strong>anyone can access, use and share</strong>.</p><p>Open data becomes usable when made available in a common, machine-readable format.</p><p>Open data must be licensed. Its licence must permit people to use the data in any way they want, including transforming, combining and sharing it with others, even commercially.</p>"
+    },
+    {
+        "_id":"c-30",
+        "_parentId":"b-28",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "What makes data open?",
+            "title": "What makes data open?",
+            "large": "course/en/images/odi-5-accordion_large.jpg",
+            "medium": "course/en/images/odi-5-accordion_large.jpg",
+            "small": "course/en/images/odi-5-accordion_large.jpg",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
+            "*credit":"Oleksiy Mark",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+      "_id":"c-35",
+      "_parentId":"b-28",
+      "_type":"component",
+      "_component":"accordion",
+      "_classes":"",
+      "_layout":"left",
+      "title": "What makes data open?",
+      "displayTitle": "What makes data open?",
+      "body": "<p>Data is open if anyone can access, use and share it.<br />There are some simple things to consider when defining openness: </p>",
+      "instruction": "",
+      "_items": [
+        {
+          "alt": "Limitations",
+          "title": "Limitations",
+          "body": "<p>For data to be open, it should have no limitations that prevent it from being used in any particular way</p><p>Anyone should be free to use, modify, combine and share the data, even commercially</p>"
+        },
+        {
+          "alt": "Cost",
+          "title": "Cost",
+          "body": "<p>Open data must be free to use, but this does not mean that it must be free to access.</p><p>There is often a cost to creating, maintaining and publishing usable data.</p><p>Ideally, any fee for accessing open data should be no more than the reasonable reproduction cost of the unit of data that is requested.</p><p>This reproduction cost tends to be negligible for many datasets.</p><p>Live data and big data can incur ongoing costs related to reliable service provision.</p>"
+        },
+        {
+          "alt": "Reuse",
+          "title": "Reuse",
+          "body": "<p>Once the user has the data, they are free to use, reuse and redistribute it – even commercially.</p><p>Open data is measured by what it can be used for, not by how it is made available.</p><p>Aspects like format, structure and machine readability all make data more usable, and should all be carefully considered.</p><p>However, these do not make the data more open.</p>"
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+     {
+        "_id": "c-36",
+        "_parentId": "b-30",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "What is does",
+        "displayTitle": "What is does",
+        "body": "<p>Open data can deliver different benefits depending on its use. A major pitfall of open data advocates is using generic arguments when speaking about the advantages. A strong pitch for open data needs to be closely tailored to the priorities and concerns of your audience. In most cases this can be determined from their professional context. Below we examine the six most common types of decision maker along with the most relevant benefits of open data</p>",
+        "instruction": "<em class='desktop-instruction'>Click the forward arrow to see more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
+        "_items": [
+            {
+                "title": "Leadership & Strategy",
+                "body": "<p>Most organisations either already have or are already exploring the need for a data strategy. When speaking with those in strategic or leadership roles, strengthening the data strategy is a key argument.</p><p>Open data supports the wider data strategy of the organisation by enriching proprietary data at no cost and adding new options to the data sharing capabilities of the business.</p>",
+                "_graphic": {
+                    "src": "course/en/images/leadership.png",
+                    "alt": "leadership",
+                    "title": "leadership",
+                    "*source":"http://www.shutterstock.com/pic-255896113",
+                    "*credit":"Pretty Vectors",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Leadership & Strategy"
+            },
+            {
+                "title": "Operations",
+                "body": "<p>For those in operations roles, efficiency is a priority. Data already plays a role in efficiency savings by enabling faster exchange of information. Open data creates efficiency savings in data access orders of magnitude greater.</p><p>The ability to access and share data across multiple platforms and between numerous organisations eradicates the time and cost normally associated with acquiring valuable datasets.</p>",
+                "_graphic": {
+                    "src": "course/en/images/operations.png",
+                    "alt": "ops",
+                    "title": "ops",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
+                    "*credit":"Sergey Nivens",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Operations"
+            },
+            {
+                "title": "Finance/Ventures",
+                "body": "<p>For this in ventures or finance, the priority is to ensure secure value return to the organisation from any prospective investment in open data. When speaking to those in ventures capacity, the high growth potential of open data services and initial value creation support an effective case. Open data produces viable equity ventures and business lines.<p></p>Open data has already created attractive target entities for acquisition and can contribute to the creation of viable independent business units.<p>",
+                "_graphic": {
+                    "src": "course/en/images/finance.png",
+                    "alt": "finance",
+                    "title": "finance",
+                    "*source":"http://www.shutterstock.com/pic-185008832",
+                    "*credit":"surassawadee",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Finance/Ventures"
+            },
+            {
+                "title": "Communications",
+                "body": "<p>For those in communications roles, data can seem irrelevant to their work. The key message centres on the role of open data in providing media exposure for organisational priorities and a complementary channel to different media outlets.</p><p> Open data has a proven track record in creating positive media coverage. The rise of data journalism has created a need for alternative channels that traditional releases and media alerts cannot reach. Open data also increases perceived neutrality and increases trust from the public that resulting articles are not ‘spun’.</p>",
+                "_graphic": {
+                    "src": "course/en/images/comms.png",
+                    "alt": "comms",
+                    "title": "comms",
+                    "*source":"http://www.shutterstock.com/pic-255896113",
+                    "*credit":"Pretty Vectors",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Communications"
+            },
+            {
+                "title": "CSR/Foundation",
+                "body": "<p>Those in CSR or foundation roles have the greatest natural connection to open data. In addition to the transparency aspect, this audience responds positively to the ability of open data to found and strengthen new partnerships.</p><p>Exchanging open data with other organisations has enabled more effective collaboration with existing networks and creates an open platform for innovation and shared learning. By engaging with open data, you can increase your long term profits and shareholder trust.</p>",
+                "_graphic": {
+                    "src": "course/en/images/csr.png",
+                    "alt": "csr",
+                    "title": "csr",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
+                    "*credit":"Sergey Nivens",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "CSR/Foundation"
+            },
+            {
+                "title": "Product/Marketing",
+                "body": "<p>Those in product or marketing roles will respond best to the potential of open data to enhance the customer experience. The shirt in consumer expectation toward the creation of a custom experience can be satisfied through greater provision of open data to complement the product function.</p><p>Open data has already enabled startups like CityMapper and OpenCorporates have shifted the expectations of consumers in their respective markets to demands not only for the product but the underlying data. In addition established businesses like Spotify use open data to enhance the listening experience and develop an edge over competitors.</p>",
+                "_graphic": {
+                    "src": "course/en/images/product.png",
+                    "alt": "product",
+                    "title": "product",
+                    "*source":"http://www.shutterstock.com/pic-185008832",
+                    "*credit":"surassawadee",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Product/Marketing"
+            }
+        ],
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+    }, 
+    {
+        "_id":"c-38",
+        "_parentId":"b-31",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "What makes data open?",
+            "title": "What makes data open?",
+            "large": "course/en/images/odi-5-accordion_large.jpg",
+            "medium": "course/en/images/odi-5-accordion_large.jpg",
+            "small": "course/en/images/odi-5-accordion_large.jpg",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
+            "*credit":"Oleksiy Mark",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+      "_id":"c-37",
+      "_parentId":"b-31",
+      "_type":"component",
+      "_component":"accordion",
+      "_classes":"",
+      "_layout":"left",
+      "title": "Where it's helped?",
+      "displayTitle": "Where it's helped?",
+      "body": "<p></p>",
+      "instruction": "",
+      "_items": [
+        {
+          "alt": "Communications",
+          "title": "Communications",
+          "body": "<p>In the large organisation category, agricultural product company Syngenta are reaching new markets and demystifying their work by publishing openly available datasets.</p><p>In the public sector, analysis of openly available Canada Revenue Agency data identified $3.2b in charitable tax violations. In one case, only $1 out of every $100 went to helping the homeless.</p><p>In startups, OpenCorporates provides 100m company records in over 100 jurisdictions which enables studies of beneficial ownership & control.</p>"
+        },
+        {
+          "alt": "Generating income",
+          "title": "Generating income",
+          "body": "<p>In the large organisation category, Arup incubates open data startups for new revenue sources, lower operations costs for services and to collaboratively gain commercial insight into other data releases.</p><p>The Climate Corporation was bought by Monsanto for $930m in 2013 for their use of farm data, which has revolutionised the agricultural industry.</p><p>In startups, Transport API have an £300k annual turnover from cleaning up UK transport data for other businesses</p>"
+        },
+        {
+          "alt": "Efficiency savings",
+          "title": "Efficiency savings",
+          "body": "<p>In the large organisation category, Thomson Reuters’ existing products can be linked together for a better sales channel & lowers ownership costs.</p><p>In the public sector, the Government of South Australia saves $3.2m annually on F.o.I requests through proactive releases of data.</p><p>In startups, Prescribing Analytics, a joint venture between NHS doctors and technologists, identified a £200m annual saving in NHS by switching to own-brand statins and more efficient delivery routes.</p>"
+        },
+        {
+          "alt": "Improving services",
+          "title": "Improving services",
+          "body": "<p>In the large organisation category, TfL's release of their travel data and enabling developers to provide consumer-friendly services, it is estimated that customers have a value of time savings of £58 million per year.</p><p>In the public sector, the government of Catalunya achieved savings of €2.6m per year in reduced staff costs from cross-department access to map data</p><p>In startups, CityMapper joined up available transport data to improve the way that citizens travel. Three years after its inception, it received $10m in funding and has expanded to 29 cities. </p>"
+        },
+        {
+          "alt": "CSR & social impact",
+          "title": "CSR & social impact",
+          "body": "<p>In the large organisation category, the Environment Agency created community-built flood models that can save 20% on design and delivery costs.</p><p>For the public sector, response to the Christchurch earthquake in 2011, city officials and volunteers created a crowdsourced emergency information web app that saved NZ$4m of reconstruction costs in year 1 of rebuilding.</p><p>In startups, OpenSensors deployed air quality and noise sensors around Heathrow, discovering that emissions were double the reported figure and altering the direction of parliamentary debate on the subject.</p>"
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+        {
+        "_id":"c-39",
+        "_parentId":"b-32",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "small": "course/en/images/c-21.jpg",
+            "medium": "course/en/images/c-21.jpg",
+            "large": "course/en/images/c-21.jpg",
+            "alt": "Open data about performance",
+            "title": "Open data about performance",
+            "*source":"http://www.shutterstock.com/pic-201870622.html",
+            "*credit":"Your Design",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+      "_id":"c-40",
+      "_parentId":"b-32",
+      "_type":"component",
+      "_component":"accordion",
+      "_classes":"",
+      "_layout":"left",
+      "title": "Why it's best?",
+      "displayTitle": "Why it's best?",
+      "body": "<p>Open data is data that anyone can access, use and share. Unlike a traditional business where your resources belong only to you and can be protected, open data can be used by others at the same time. To understand how businesses that use open data operate, we need to consider the value proposition of open data to a business.</p>",
+      "instruction": "<em>Click below to explore tools that unlock data that is <b>on the Web</b></em>",
+      "_items": [
+        {
+          "alt": "What is a value proposition?",
+          "title": "What is a value proposition?",
+          "body": "<p>A value proposition is a credible justification for why your customers will interact with your business in the ways you expect. The core of a value proposition is the problem(s) you solve for your customers. By identifying a problem your customers have and creating a solution to that problem, you create a justification for them to interact with your business.</p>"
+        },
+        {
+          "alt": "Why are value propositions important?",
+          "title": "Why are value propositions important?",
+          "body": "<p>The value proposition of a business is the core of its business model. Without a strong value proposition, a business does not have the justification for operating. The value proposition is also the logic on which the rest of the business is based. If, for example, a business solves a problem for its customers and helps them save money or time, there is a reason to charge for this service. If, however, the problem the business solves is a problem that customers do not value in monetary terms, that business may need to seek alternative sources of revenue. Understanding the value proposition allows the business to anchor decisions in how customers will interact.</p>"
+        },
+        {
+          "alt": "The value proposition of open",
+          "title": "The value proposition of open",
+          "body": "<p>Businesses working in 'open' – whether open source software or open data – need to consider the value proposition of the open resources they consume. This consideration is important when developing a value proposition because using someone else's data or software in your business changes the problem you solve.</p>"
+        },
+        {
+          "alt": "Creating a value proposition for an open data business",
+          "title": "Creating a value proposition for an open data business",
+          "body": "<p>Creating the value proposition for an open data business is different from a traditional business. Where a closed business solves a problem with a solution the customer cannot get anywhere else, an open business uses solutions that are already available in some form elsewhere. This means that the value proposition for an open business is usually based on being more convenient or cost-effective than the alternatives. Writing a strong value proposition for an open data business means explaining what problem you solve for a customer and why your solution is better than going directly to the data themselves.</p>"
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+        {
+    "_id":"c-41",
+    "_parentId":"b-33",
+    "_type":"component",
+    "_component":"text",
+    "_classes":"",
+    "_layout":"full",
+        "title":"what next?",
+        "displayTitle": "what next?",
+        "body": "<p>Once you have made the key points in your pitch for open data, it is vital that you make create the conditions for action. Listeners feel good taking an action in response to a pitch. Your task is to create an action which allows them to say yes (or no) at the time without needing to go away and consider.</p><p>Creating an action someone can decide on at the time means you can ask for too much. If the person would need to consult others or consider further, the action is too big. The ideal is an action that is small, clear, and moves the agenda forward.</p><p>Good actions include, getting a date in the diary for a follow-up meeting with more people, a commitment to read and respond to a case study relevant to their interests or them sending an assessment of feasibility.</p><p>Keep the timeframe and impact clear. Finally, only ask for budget or time which is reasonable given the level of expected return.</p>"
+    },
+    {
+        "_id":"c-42",
+        "_parentId":"b-34",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/burst.png",
+            "medium": "course/en/images/burst.png",
+            "small": "course/en/images/burst.png"
+        }
+    },
+    {
+        "_id":"c-43",
+        "_parentId":"b-34",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Are you ready for open data advocacy?",
+        "displayTitle":"Are you ready for open data advocacy?",
+        "body":"<p>There are four helpful things to remember when advocating for open data. Can you remember them?</p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-45",
+        "_parentId":"b-35",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"illustration",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "What is open data?",
+            "title": "",
+            "large": "course/en/images/odi-9-mcq-image_large.jpg",
+            "medium": "course/en/images/odi-9-mcq-image_large.jpg",
+            "small": "course/en/images/odi-9-mcq-image_large.jpg",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
+            "*credit":"leromin",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+        "_id":"c-50",
+        "_parentId":"b-35",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"left",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":true,
+        "_selectable":1,
+        "title": "What is open data?",
+        "displayTitle": "What is open data?",
+        "body": "<p>Open data is...</p>",
+        "instruction": "<em>Choose your answer, then click 'Submit'</em>",
+        "_items": [
+            {
+                "text": "information that we sell to businesses",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "data that anyone can access, use and share",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "data that is visible on the Web",
+                "_shouldBeSelected": false
+            }
+        ],
+        "_feedback":{
+            "correct":"<h5>That’s right!</h5><p><strong>Open data</strong> is <strong>data that anyone can access, use and share</strong>.<br />Open data must also be licensed to allow free usage and be available for commercial use.</p>",
+            "_incorrect": {
+                "notFinal": "<h5>Are you sure about that?</h5><p><strong>Open data</strong> is <strong>data that anyone can access, use and share</strong>. <br/>Open data must also be licensed to allow free usage and must also be available for commercial use.</p></p>",
+                "final": "<h5>Are you sure about that?</h5><p><p><strong>Open data</strong> is <strong>data that anyone can access, use and share</strong>. <br/>Open data must also be licensed to allow free usage and must also be available for commercial use.</p></p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          }
+        },
+        "_buttons":{
+            "submit":"",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        },
+        "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-55",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"illustration",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Data, information, knowledge tiangle",
+            "title": "",
+            "large": "course/en/images/odi-10-mcq_large.jpg",
+            "medium": "course/en/images/odi-10-mcq_large.jpg",
+            "small": "course/en/images/odi-10-mcq_large.jpg",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
+            "*credit":"Anna Frajtova",
+            "*license":"Shutterstock Standard License",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
+            "*credit":"Sachezi",
+            "*license":"Shutterstock Standard License",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
+            "*credit":"Oleksiy Mark",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+        "_id":"c-60",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"right",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":true,
+        "_selectable":1,
+        "title": "What is data?",
+        "displayTitle": "Benefits of open data",
+        "body": "<p>Which of the following is NOT a benefit of open data?</p>",
+        "instruction": "<em>Choose your answer, then click 'Submit'.</em>",
+        "_items": [
+            {
+                "text": "Open data produces viable equity ventures and business lines",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Open data provides free media and increased reach",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Open data improves personal features and smooths personality flaws",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Open data improves outreach and forges social partnerships.",
+                "_shouldBeSelected": false
+            }
+        ],
+        "_feedback":{
+            "correct":"<h5>That’s right!</h5><p>Open data, among other benefits, can create viable ventures, increase media reach and forge new partnerships.</p>",
+            "_incorrect": {
+                "notFinal": "<h5>Are you sure about that?</h5><p>Open data, among other benefits, can create viable ventures, increase media reach and forge new partnerships.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>Open data, among other benefits, can create viable ventures, increase media reach and forge new partnerships.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          }
+        },
+        "_buttons":{
+            "submit":"",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        },
+        "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-65",
+        "_parentId":"b-45",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"illustration",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "What makes data open?",
+            "title": "",
+            "large": "course/en/images/odi-11-mcq_large.jpg",
+            "medium": "course/en/images/odi-11-mcq_large.jpg",
+            "small": "course/en/images/odi-11-mcq_large.jpg",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
+            "*credit":"Oleksiy Mark",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+        "_id":"c-70",
+        "_parentId":"b-45",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"left",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":true,
+        "_selectable":1,
+        "title": "What makes data open?",
+        "displayTitle": "Proof points",
+        "body": "<p>Which of the following is NOT a genuine proof point for the benefits of open data?</p>",
+        "instruction": "<em>Choose your answer, then click 'Submit'</em>",
+        "_items": [
+            {
+                "text": "",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "",
+                "_shouldBeSelected": false
+            }
+        ],
+        "_feedback":{
+            "correct":"<h5>That’s right!</h5><p></p>",
+            "_incorrect": {
+                "notFinal": "<h5>Are you sure about that?</h5><p></p>",
+                "final": "<h5>Are you sure about that?</h5><p></p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          }
+        },
+        "_buttons":{
+            "submit":"",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        },
+        "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-75",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"illustration",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Why do we need open data?",
+            "title": "",
+            "large": "course/en/images/odi-12-mcq_large.jpg",
+            "medium": "course/en/images/odi-12-mcq_large.jpg",
+            "small": "course/en/images/odi-12-mcq_large.jpg",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
+            "*credit":"Sergey Nivens",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+        "_id":"c-80",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"right",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":true,
+        "_selectable":1,
+        "title": "Next steps",
+        "displayTitle": "Next steps",
+        "body": "<p>Which of these next steps would be a good end to an open data pitch?</p>",
+        "instruction": "<em>Choose your answer, then click 'Submit'</em>",
+        "_items": [
+            {
+                "text": "Get a date in the diary with relevant stakeholders to discuss how to take it forward",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Send all the datasets that could be opened to stakeholders for immediate sign off",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Send a 2000-2500 word proposal to stakeholders to convince them to start utilising or publishing data",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Do nothing. The data will open itself",
+                "_shouldBeSelected": false
+            }
+        ],
+        "_feedback":{
+            "correct":"<h5>That’s right!</h5><p>Getting a date in the diary to discuss further with the right people is a good way to move things forward.</p>",
+            "_incorrect": {
+                "notFinal": "<h5>Are you sure about that?</h5><p>Getting a date in the diary to discuss further with the right people is a good way to move things forward.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>Getting a date in the diary to discuss further with the right people is a good way to move things forward.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          }
+        },
+        "_buttons":{
+            "submit":"",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        },
+        "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-85",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Summary icon clipboard",
+            "title": "Summary icon clipboard",
+            "large": "course/en/images/summary-icon.png",
+            "medium": "course/en/images/summary-icon.png",
+            "small": "course/en/images/summary-icon.png",
+            "*source":"http://www.shutterstock.com/pic-189810137.html",
+            "*credit":"Kritchanut",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+        "_id":"c-90",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Open data - veni, vidi, vici",
+        "displayTitle":"Open data advocacy",
+        "body":"<p>Open data can be a confusing concept to any decision maker, particularly if put in terms of transparency and accountability. Through careful positioning and the right language, you can ensure that any decision maker has a pitch they can say yes to.</p>",
+        "_pageLevelProgress": {
+          "_isEnabled": true
+        }
+    },
+    {
+       "_id":"c-95",
+       "_parentId":"b-55",
+       "_type":"component",
+       "_component":"text",
+       "_classes":"separator",
+       "_layout":"full"
+    },
+    {
+        "_id":"c-100",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"footer-logo",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Open data institute logo",
+            "title": "Open data institute logo",
+            "large": "course/en/images/logo-small.png",
+            "medium": "course/en/images/logo-small.png",
+            "small": "course/en/images/logo-small.png",
+            "*source":"http://theodi.org",
+            "*credit":"The Open Data Institute",
+            "*license":"All rights reserved"  
+        }
+    },
+    {
+        "_id":"c-105",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"social-buttons",
+        "_layout":"right",
+        "body":"<a class='social' target='_blank' href='https://twitter.com/ODIHQ'><img src='course/en/images/social/twitter.png'></a><a class='social' target='_blank' href='https://soundcloud.com/theodi'><img src='course/en/images/social/sound.png'></a><a class='social' target='_blank' href='https://www.scribd.com/OpenDataInstitute'><img src='course/en/images/social/scribd.png'></a><a class='social' target='_blank' href='https://github.com/theodi'><img src='course/en/images/social/github.png'></a><a class='social' target='_blank' href='https://vimeo.com/theodiuk'><img src='course/en/images/social/vimeo.png'></a><a class='social' target='_blank' href='https://www.youtube.com/user/OpenDataInstituteUK'><img src='course/en/images/social/youtube.png'></a><a class='social' target='_blank' href='https://www.flickr.com/photos/ukodi/'><img src='course/en/images/social/flickr.png'></a>"
+    }
+]
