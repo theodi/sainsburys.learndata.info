@@ -343,7 +343,7 @@
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
-        "_layout":"right",
+        "_layout":"left",
         "_graphic": {
             "small": "course/en/images/c-21.jpg",
             "medium": "course/en/images/c-21.jpg",
@@ -361,7 +361,7 @@
       "_type":"component",
       "_component":"accordion",
       "_classes":"",
-      "_layout":"left",
+      "_layout":"right",
       "title": "Why it's best?",
       "displayTitle": "Why it's best?",
       "body": "<p>Open data is data that anyone can access, use and share. Unlike a traditional business where your resources belong only to you and can be protected, open data can be used by others at the same time. To understand how businesses that use open data operate, we need to consider the value proposition of open data to a business.</p>",
