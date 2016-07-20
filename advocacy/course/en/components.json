@@ -320,8 +320,8 @@
       "_component":"accordion",
       "_classes":"",
       "_layout":"left",
-      "title": "Where it's helped?",
-      "displayTitle": "Where it's helped?",
+      "title": "Where it's helped",
+      "displayTitle": "Where it's helped",
       "body": "<p></p>",
       "instruction": "",
       "_items": [
@@ -380,8 +380,8 @@
       "_component":"accordion",
       "_classes":"",
       "_layout":"right",
-      "title": "Why it's best?",
-      "displayTitle": "Why it's best?",
+      "title": "Why it's best",
+      "displayTitle": "Why it's best",
       "body": "<p>Open data is data that anyone can access, use and share. Unlike a traditional business where your resources belong only to you and can be protected, open data can be used by others at the same time. To understand how businesses that use open data operate, we need to consider the value proposition of open data to a business.</p>",
       "instruction": "<em>Click below to explore tools that unlock data that is <b>on the Web</b></em>",
       "_items": [
@@ -439,8 +439,8 @@
     "_component":"text",
     "_classes":"",
     "_layout":"left",
-        "title":"what next?",
-        "displayTitle": "what next?",
+        "title":"What next?",
+        "displayTitle": "What next?",
         "body": "<p>Once you have made the key points in your pitch for open data, it is vital that you make create the conditions for action. Listeners feel good taking an action in response to a pitch. Your task is to create an action which allows them to say yes (or no) at the time without needing to go away and consider.</p><p>Creating an action someone can decide on at the time means you can ask for too much. If the person would need to consult others or consider further, the action is too big. The ideal is an action that is small, clear, and moves the agenda forward.</p><p>Good actions include, getting a date in the diary for a follow-up meeting with more people, a commitment to read and respond to a case study relevant to their interests or them sending an assessment of feasibility.</p><p>Keep the timeframe and impact clear. Finally, only ask for budget or time which is reasonable given the level of expected return.</p>"
     },
     {
