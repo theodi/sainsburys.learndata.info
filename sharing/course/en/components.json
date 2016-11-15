@@ -1,0 +1,376 @@
+[
+    {
+        "_id":"c-01",
+        "_parentId":"b-01",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"intro-logo",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "",
+            "medium": "",
+            "small": "",
+            "*source":"",
+            "*credit":"",
+            "*license":""
+        }
+    },
+    {
+        "_id":"c-02",
+        "_parentId":"b-01",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "body": "<p>Creating effective mechanisms for data sharing is a key part of getting value from your data. The way you choose to share data determines how your suppliers, customers and partners can interact with you. The easier it is to interact, the greater the satisfaction from the business.</p>\n\n<p>This module will prepare you with the approaches you need to decide data sharing arrangements, implement the right tools and monitor results.</p>\n",
+        "displayTitle": "Data Sharing",
+        "title": "Data Sharing",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-03",
+        "_parentId":"b-01",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"<h5>In this module we’ll explore the following:</h5><ul class='ticks'><li>Why data sharing is important</li><li>The steps to share data</li><li>The blockers to data sharing<li>Selecting the best resources to share</li></ul>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+    {
+        "_id":"c-11",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "body": "<p>Data is at the centre of your business activity. Whether looking at operations, finance or strategy, you&nbsp;increasingly use data to understand how our businesses work and how they perform.</p>\n\n<p>When your business interacts with another, either an upstream supplier&nbsp;or a downstream customer, you&nbsp;share data . Data is as much a part of what you&nbsp;supply as the physical goods and services. In the case of many businesses, data is gradually replacing conversation &amp; written reports as the main way to update customers and suppliers on progress&nbsp;and operations.</p>\n\n<p>The way you&nbsp;share data can have a big impact on how easy and productive it is to work with your business. If your data is difficult to find, messy or needs endless permission to access, your customers will feel the frustration. On the other hand, if sensitive personal or operational data is made available publically, your competitors may benefit.&nbsp;</p>\n\n<p>Sharing data appropriately requires you to understand how, when and for what purpose your suppliers and customers need your data. Once we understand this, we can choose means of sharing that make it more efficient, more relevant and ultimately easier to use your data.</p>\n",
+        "displayTitle": "Why should we share data from our supply chains?",
+        "title": "Why should we share data from our supply chains?"
+    },
+    {
+        "_id":"c-12",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Why should we share our data?",
+            "title": "Why should we share our data?",
+            "large": "course/en/images/adf8c25f008196b25dbebcd69dc2f4c7937d1746.jpg",
+            "medium": "course/en/images/adf8c25f008196b25dbebcd69dc2f4c7937d1746.jpg",
+            "small": "course/en/images/adf8c25f008196b25dbebcd69dc2f4c7937d1746.jpg",
+            "*source":"",
+            "*credit":"",
+            "*license":""
+        }
+    },
+    {
+        "_id": "c-20",
+        "_parentId": "b-20",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "body": "<p>Every organisation has different priorities. You need to choose a data sharing practice that best suits your market and your expert understanding of what your customers and suppliers need. However, certain steps are common no matter who you are and if you follow them, you will make the process easier:</p>\n",
+        "displayTitle": "The steps to effectively sharing data",
+        "title": "The steps to effectively sharing data",
+        "_isAvailable": true,
+        "_isOptional": false,
+        "_classes": "",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "instruction": "",
+        "mobileInstruction": "",
+        "_setCompletionOn": "allItems",
+        "_items": [
+        {
+        "title": "List your data assets",
+        "body": "<p>The first step is to create a comprehensive list of the data you collect or maintain. Until you as an organisation understand what data you hold, you can&#39;t understand how it should be shared.</p>\n\n<p>Make sure you understand who owns the data as well as what it covers. When it comes to sharing the data you will need to get the relevant managers onboard quickly so list their names and the datasets for which they are responsible.</p>\n",
+        "_graphic": {
+          "src": "course/en/images/53c8226b8c48679477085969491c3b22448dfc88.jpg",
+          "alt": ""
+        },
+        "strapline": "Asset list"
+      },
+      {
+        "title": "Define the current sharing arrangements",
+        "body": "<p>To share things effectively you need to understand how they are currently shared. There are two actions you need to take for this step: Day in the life interviews and secret shopper.</p>\n\n<p>For the day in the life interviews, gather a small number of data owners from both the organisation and the supply chain. Ask each to describe how data sharing works day-to-day. What works well? What is frustrating? How does the experience of sharing data affect their view of their work with you?</p>\n\n<p>For the secret shopper, ask two or three of your trusted partners to fulfill a pre-defined data request with your organisation. Ask them too log the experience including whether they were successful, how long it took and what could have been improved.</p>\n\n<p>Use both these techniques to build up a picture of where data sharing is working, where it is broken and how to fix it.</p>\n",
+        "_graphic": {
+          "src": "course/en/images/edd355144ecbeb742e589843427b3cf2cddbc8ce.jpg",
+          "alt": ""
+        },
+        "strapline": "Current situation"
+      },
+      {
+        "title": "Define the desired sharing scenario",
+        "body": "<p>Using&nbsp;your &#39;current situation&#39; interviews as a starting point, set <strong>up to three goals</strong> for data sharing in the future in the form <em>&quot;In the future, our data sharing will bring [insert benefit here]. We will consider the programme a&nbsp;success when we measure a [insert metric here] .</em></p>\n\n<p>For example, I might choose to set a goal like &quot;In the future, our data sharing will reduce the <strong>amount of time our customers spend asking us for data</strong>. We will consider the programme a success when we measure <strong>a 20% reduction in the number of requests for data we receive from our 3 biggest customers</strong>.</p>\n\n<p>These goals will help you frame the requirements for data sharing and inform the ways you choose to share your data.</p>\n",
+        "_graphic": {
+          "src": "course/en/images/41cf261edeb1c7f7ed49870d1965049273e3a09d.jpg",
+          "alt": ""
+        },
+        "strapline": "Future state"
+      },
+      {
+        "title": "Understand the barriers",
+        "body": "<p>You have now written out in clear statements what the future state of data sharing will bring to your organisation. Before you look at how you will get there, we need to understand what has prevented the organisation from already doing this.</p>\n\n<p>Unless the result of your current situation and future state analysis was &#39;everything is perfect&#39;, something could be improved in the way you share data. So what has stopped you from improving it already?</p>\n\n<p>Barriers to improvement may be resource-driven (we don&#39;t have the money), capacity-driven (we don&#39;t have the time), data-driven (the data isn&#39;t ready) or people-driven (our staff don&#39;t have the skills).&nbsp;</p>\n\n<p>Ensure you list out the barriers along with the impact of each of them.</p>\n",
+        "_graphic": {
+          "src": "course/en/images/e3521cdf64de1084a9f910380878abc1f213f8af.jpg",
+          "alt": ""
+        },
+        "strapline": "Barriers"
+      },
+      {
+        "title": "Decide on a test case",
+        "body": "<p>Like any big change, data sharing needs to start with a small step. Pick a test project to work out whether your approach is going to get the desired results. Picking the right project is important. Look for these three characteristics to help you find it:</p>\n\n<ol>\n\t<li>A partner with whom you have a strong, established relationship and who agrees with the idea of a pilot.</li>\n\t<li>A dataset you both value but which doesn&#39;t jeopardise any of the business you do with that partner</li>\n\t<li>A measure of success you both can monitor and record before and after the pilot.</li>\n</ol>\n",
+        "_graphic": {
+          "src": "course/en/images/b9f985f7c8b8d8eaa9d54d32adbf2bfd733ffa38.jpg",
+          "alt": ""
+        },
+        "strapline": "Test case"
+      }
+  ]
+  },
+    {
+        "_id":"c-30",
+        "_parentId":"b-28",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "The blockers to data sharing",
+            "title": "The blockers to data sharing",
+            "large": "course/en/images/02c402d1b692354b48e44b8eab1456b789f0d500.jpg",
+            "medium": "course/en/images/02c402d1b692354b48e44b8eab1456b789f0d500.jpg",
+            "small": "course/en/images/02c402d1b692354b48e44b8eab1456b789f0d500.jpg",
+            "*source":"",
+            "*credit":"",
+            "*license":""
+        }
+    },
+    {
+      "_id":"c-35",
+      "_parentId":"b-28",
+      "_type":"component",
+      "_component":"accordion",
+      "_classes":"",
+      "_layout":"left",
+      "body": "<p>The following are some of the key blockers to the better sharing of data between organisations within a supply chain</p>\n",
+      "displayTitle": "The blockers to data sharing",
+      "title": "The blockers to data sharing",
+      "instruction": "",
+      "_items": [
+      {
+        "title": "Lack of business case",
+        "body": "<p>Sharing data requires a firm business case. Building a business case is central to taking any action inside an organisation.</p>\n\n<p>The failure to build a clear business case for data sharing leads to an inability to communicate the benefits to the organisation and ultimately delays or cancellations in taking action.</p>\n\n<p>Effective business cases for data sharing typically focus on efficiency (reduced costs of data access and exchange), growth (increased revenue resulting directly or indirectly from data) or performance (non-financial benefit such as improved customer perception or a happier workforce).</p>\n\n<p>Build your case clearly and accompany it with clear metrics that justify investment and highlight the timeframe for benefits.</p>\n\n<p>&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Fear of embarrassment",
+        "body": "<p>Sharing data gives your partners a greater understanding of how your organisation works. For some people,&nbsp;this can lead to the legitimate fear that the organisation will reveal something unfavourable to your suppliers, customers or the public.</p>\n\n<p>The key to overcoming fear of embarrassment is to convince your audience that this risk has less impact that first feared. Effective arguments include intention (they aren&#39;t looking for errors), mutual trust (they will forgive errors) and risk/reward (we benefit more than we risk)</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Concern over competitors",
+        "body": "<p>Sharing data can lead to well-grounded fears of exposing your operational details to competitors.&nbsp;</p>\n\n<p>Most organisations overstate the ability and interest of competitors in acting on data even where they have access to it.</p>\n\n<p>When addressing this concern, begin with the protections against collusion which offer some protections form this practice. In addition it is helpful to explain, in plain language, the measures you intend to take to secure the data and ensure only the intended audience has access.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Deficit of workforce skills",
+        "body": "<p>A final blocker is the lack of capacity within the workforce to undertake effective data sharing.&nbsp;</p>\n\n<p>The skills and knowledge to deliver effective data sharing may not be present in the organisation which can prevent action even where there is support.</p>\n\n<p>To overcome this blocker it is first necessary to understand the required skills. Once you understand what is required, seek either to develop existing staff, hire new capacity or outsource delivery.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_pageLevelProgress": {
+       "_isEnabled": true
+    }
+    },
+     {
+        "_id": "c-36",
+        "_parentId": "b-30",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "right",
+        "_component": "text",
+        "body": "<p>Sharing data resources effectively requires trade-offs. Whether between efficiency &amp; client management or future innovation &amp; current value, these trade-offs need to be understood so that you can make informed decisions about where greater sharing of data will add the greatest benefits.</p>\n\n<p>Your decision about which data to share is ultimately based on the unique situation of your organisation. However, certain things are universal no matter who you are. The two most common considerations are value and risk.</p>\n\n<p>Value measures how much value would result in sharing a data asset. Some assets may have a high value if their sharing has the potential to make things much more efficient or unlock meaningful insights. Others will have little value to those you share with because they aren&#39;t relevant or cannot be used to take action.</p>\n\n<p>Risk measures how sensitive the sharing of this data asset is. Some assets will be low risk if sharing them will not jeopardise&nbsp;significant commercial value or bring undue scrutiny on your operations from those you share with. Others will be highly risky because they might expose secrets to competitors or reduce the value of your services to those who consume them.</p>\n\n<p>To better understand the measures of value and risk, use the matrix to the left to plot your organisations data assets.</p>\n",
+        "displayTitle": "Selecting the best resources to share",
+        "title": "Selecting the best resources to share",
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+    }, 
+    {
+        "_id":"c-37",
+        "_parentId":"b-30",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Selecting the best resources to share",
+            "title": "Selecting the best resources to share",
+            "large": "course/en/images/3e197aafa301f5e5ba9831a5f6aaa48b7b2cb48d.png",
+            "medium": "course/en/images/3e197aafa301f5e5ba9831a5f6aaa48b7b2cb48d.png",
+            "small": "course/en/images/3e197aafa301f5e5ba9831a5f6aaa48b7b2cb48d.png",
+            "*source":"",
+            "*credit":"",
+            "*license":""
+        }
+    },
+    {
+        "_id": "c-38",
+        "_parentId": "b-35",
+        "_classes": "",
+        "_type":"component",
+        "body": "<p>Having decided in principle that sharing some data with your supply chain partners is worth doing, the question that needs to be answered is how. The way in which data is shared&nbsp;makes a difference to how people can use it. You need to ask yourself three questions to find the right approach:</p>\n",
+        "displayTitle": "The way you share the things you share",
+        "title": "The way you share the things you share",
+        "_isAvailable": true,
+        "_isOptional": false,
+        "_classes": "",
+        "_component": "narrative",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "instruction": "",
+        "mobileInstruction": "",
+        "_setCompletionOn": "allItems",
+      "_items": [
+      {
+        "title": "Request & respond",
+        "body": "<p>The simplest form of data sharing is for one person to request data and for the other party to respond with it.</p>\n\n<p>The exchange could happen via email or in a physical form like a usb key.</p>\n\n<p>Request &amp; respond requires the least investment in terms of systems. The method also offers the least in terms of data protections and requires the highest commitment of time from staff.</p>\n\n<p>Request &amp; respond is only appropriate for data shared on a periodic basis.</p>\n",
+        "_graphic": {
+          "src": "course/en/images/28fcf900d655e7a2dad53b72b5eedac76aa45567.jpg",
+          "alt": ""
+        },
+        "strapline": "Request"
+      },
+      {
+        "title": "Download",
+        "body": "<p>The download form of data sharing requires one party to upload the data to a web presence (secured or unsecured) and for counterparties to download the data at a time which suits them.</p>\n\n<p>Download requires a minimal investment in making it possible for staff to upload data to the website. The method offers some security if the website is secured and requires some periodic effort from staff to upload the latest copies.</p>\n\n<p>Download is appropriate for most datasets that do not change regularly.</p>\n",
+        "_graphic": {
+          "src": "course/en/images/8ad2b756c1939caad068dddead41d53b22405dd1.jpg",
+          "alt": ""
+        },
+        "strapline": "Download"
+      },
+      {
+        "title": "Permission",
+        "body": "<p>The permission method of data sharing involves granting individuals or whole organisations direct access to a database or other place where the data is maintained by your organisation.</p>\n\n<p>Permission can happen via a login to a database or sharing access to live documents like Google sheets.</p>\n\n<p>Permission requires a variable effort depending on the database technologies. The method offers security if those you share with cannot duplicate the data and requires effort from staff only to interpret the data for partners.</p>\n\n<p>Permission is appropriate where a human needs regualr access to the data.</p>\n\n<p>Permission</p>\n",
+        "_graphic": {
+          "src": "course/en/images/2e79d639e8485d8287961c89a953f8462cb6a3dc.jpg",
+          "alt": ""
+        },
+        "strapline": "Permission"
+      },
+      {
+        "title": "API",
+        "body": "<p>The API method of sharing involves querying a database using a pre-defined script. Once set up, the API allows the recipient to request the latest version of data from the provider. APIs can be secured with permissions or open.</p>\n\n<p>APIs require technical effort to establish and correctly configure. The method offers a high level of security and can also be interpreted by programmes without human intervention.</p>\n\n<p>APIs are appropriate for rapidly changing data and in circumstances where you need to automatically ingest data.</p>\n",
+        "_graphic": {
+          "src": "course/en/images/36b0055b8aad82e30a0a326d6fec212cabfa6763.jpg",
+          "alt": ""
+        },
+        "strapline": "API"
+      }
+    ]
+  },
+    {
+        "_id":"c-85",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Summary icon clipboard",
+            "title": "Summary icon clipboard",
+            "large": "course/en/images/summary-icon.png",
+            "medium": "course/en/images/summary-icon.png",
+            "small": "course/en/images/summary-icon.png",
+            "*source":"http://www.shutterstock.com/pic-189810137.html",
+            "*credit":"Kritchanut",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+        "_id":"c-90",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "body": "<p>Creating effective mechanisms for data sharing is a key part of getting value from your data. The way you choose to share data determines how your suppliers, customers and partners can interact with you. The easier it is to interact, the greater the satisfaction from the business.</p>\n",
+        "displayTitle": "Data sharing",
+        "title": "Data sharing",
+        "_pageLevelProgress": {
+          "_isEnabled": true
+        }
+    },
+    {
+       "_id":"c-95",
+       "_parentId":"b-55",
+       "_type":"component",
+       "_component":"text",
+       "_classes":"separator",
+       "_layout":"full"
+    },
+    {
+        "_id":"c-100",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"footer-logo",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Open data institute logo",
+            "title": "Open data institute logo",
+            "large": "course/en/images/logo-small.png",
+            "medium": "course/en/images/logo-small.png",
+            "small": "course/en/images/logo-small.png",
+            "*source":"http://theodi.org",
+            "*credit":"The Open Data Institute",
+            "*license":"All rights reserved"  
+        }
+    },
+    {
+        "_id":"c-105",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"social-buttons",
+        "_layout":"right",
+        "body":"<a class='social' target='_blank' href='https://twitter.com/ODIHQ'><img src='course/en/images/social/twitter.png'></a><a class='social' target='_blank' href='https://soundcloud.com/theodi'><img src='course/en/images/social/sound.png'></a><a class='social' target='_blank' href='https://www.scribd.com/OpenDataInstitute'><img src='course/en/images/social/scribd.png'></a><a class='social' target='_blank' href='https://github.com/theodi'><img src='course/en/images/social/github.png'></a><a class='social' target='_blank' href='https://vimeo.com/theodiuk'><img src='course/en/images/social/vimeo.png'></a><a class='social' target='_blank' href='https://www.youtube.com/user/OpenDataInstituteUK'><img src='course/en/images/social/youtube.png'></a><a class='social' target='_blank' href='https://www.flickr.com/photos/ukodi/'><img src='course/en/images/social/flickr.png'></a>"
+    }
+]
