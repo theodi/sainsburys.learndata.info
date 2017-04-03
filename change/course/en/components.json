@@ -120,7 +120,7 @@
       },
       {
         "title": "Reducing risk",
-        "body": "<p>Managing the process of change reduces the overall risks to an organisation.</p><p>There are different reasons why an organisation wishes to implement a change management process. Sometimes this can be due to negative impacts from their current process, system, structure or way of working.</p><p>In these cases, it is a risk to maintain the current situation as it might lead to a loss in revenue or a decline in the organisation's reputation.</p><p>However, it might be equally risky to implement change too quickly. Managing the change process is a way to control these risks and make sure that the change is positive.</p>\n",
+        "body": "<p>Managing the process of change reduces the overall risks to an organisation.</p><p>There are different reasons why an organisation wishes to implement a change management process. Sometimes this can be due to negative impacts from their current process, system, structure or way of working.</p><p>In these cases, it is a risk to maintain the current situation as it might lead to a loss in revenue, decline in customer satisfaction, or a decline in the organisation's reputation.</p><p>However, it might be equally risky to implement change too quickly. Managing the change process is a way to control these risks and make sure that the change is positive.</p>\n",
         "_graphic": {
           "alt": "",
           "src": ""
@@ -269,7 +269,7 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "body": "<p>Change management is the process of introducing a long-term transition, change or development in an organisation. Effective management is essential for the success of any project or initiative, and a programme of change is no different.</p><p>Key elements of a successful programme of change include clear ownership and vision, senior buy-in, measuring success through clear metrics and communicating that impact.</p>\n",
+        "body": "<p>Change management is the process of introducing a long-term transition, change or development in an organisation. Effective management is essential for the success of any project or initiative, and a programme of change is no different.</p><p>Key elements of a successful programme of change include clear ownership and vision, senior buy-in, measuring success through clear metrics and communicating that impact.</p><p>In the context of Sainsburys, using the principles of change management will help to develop a data sharing for the organisation. Find out more about <a href='../sharing/'>data sharing</a> and <a href='../strategy/'>data strategy</a> at Sainsburys.</p>",
         "displayTitle": "Data change",
         "title": "Data change",
         "_pageLevelProgress": {
